@@ -1,0 +1,6 @@
+[submodule "suba"]
+	path = suba
+	url = https://github.com/yamaguci-dos/suba.git
+[submodule "sub_module_b"]
+	path = sub_module_b
+	url = https://github.com/yamaguci-dos/subb.git
